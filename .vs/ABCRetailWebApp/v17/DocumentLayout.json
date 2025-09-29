@@ -1,0 +1,506 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C81B538-B240-420C-9BA7-8F8CEE298C7E}|..\\ABCRetailFunctionsNew\\ABCRetailFunctionsNew.csproj|c:\\users\\thorisomoteane\\source\\repos\\abcretailfunctionsnew\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3D5F6B-1903-4252-89A8-7BEF6BEB13AD}|ABCRetailWebApp.csproj|c:\\users\\thorisomoteane\\source\\repos\\abcretailwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA3D5F6B-1903-4252-89A8-7BEF6BEB13AD}|ABCRetailWebApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C81B538-B240-420C-9BA7-8F8CEE298C7E}|..\\ABCRetailFunctionsNew\\ABCRetailFunctionsNew.csproj|c:\\users\\thorisomoteane\\source\\repos\\abcretailfunctionsnew\\.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C81B538-B240-420C-9BA7-8F8CEE298C7E}|..\\ABCRetailFunctionsNew\\ABCRetailFunctionsNew.csproj|c:\\users\\thorisomoteane\\source\\repos\\abcretailfunctionsnew\\abcretailfunctionsnew.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3D5F6B-1903-4252-89A8-7BEF6BEB13AD}|ABCRetailWebApp.csproj|c:\\users\\thorisomoteane\\source\\repos\\abcretailwebapp\\local.settings.json.template||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BA3D5F6B-1903-4252-89A8-7BEF6BEB13AD}|ABCRetailWebApp.csproj|solutionrelative:local.settings.json.template||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C81B538-B240-420C-9BA7-8F8CEE298C7E}|..\\ABCRetailFunctionsNew\\ABCRetailFunctionsNew.csproj|c:\\users\\thorisomoteane\\source\\repos\\abcretailfunctionsnew\\local.settings.json.template||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C81B538-B240-420C-9BA7-8F8CEE298C7E}|..\\ABCRetailFunctionsNew\\ABCRetailFunctionsNew.csproj|c:\\users\\thorisomoteane\\source\\repos\\abcretailfunctionsnew\\picturetoblobsfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C81B538-B240-420C-9BA7-8F8CEE298C7E}|..\\ABCRetailFunctionsNew\\ABCRetailFunctionsNew.csproj|c:\\users\\thorisomoteane\\source\\repos\\abcretailfunctionsnew\\poisonqueueprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C81B538-B240-420C-9BA7-8F8CEE298C7E}|..\\ABCRetailFunctionsNew\\ABCRetailFunctionsNew.csproj|c:\\users\\thorisomoteane\\source\\repos\\abcretailfunctionsnew\\reportstoazurefilesfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C81B538-B240-420C-9BA7-8F8CEE298C7E}|..\\ABCRetailFunctionsNew\\ABCRetailFunctionsNew.csproj|c:\\users\\thorisomoteane\\source\\repos\\abcretailfunctionsnew\\datatotablesfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C81B538-B240-420C-9BA7-8F8CEE298C7E}|..\\ABCRetailFunctionsNew\\ABCRetailFunctionsNew.csproj|c:\\users\\thorisomoteane\\source\\repos\\abcretailfunctionsnew\\orderprocessingfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C81B538-B240-420C-9BA7-8F8CEE298C7E}|..\\ABCRetailFunctionsNew\\ABCRetailFunctionsNew.csproj|c:\\users\\thorisomoteane\\source\\repos\\abcretailfunctionsnew\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C81B538-B240-420C-9BA7-8F8CEE298C7E}|..\\ABCRetailFunctionsNew\\ABCRetailFunctionsNew.csproj|c:\\users\\thorisomoteane\\source\\repos\\abcretailfunctionsnew\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3D5F6B-1903-4252-89A8-7BEF6BEB13AD}|ABCRetailWebApp.csproj|c:\\users\\thorisomoteane\\source\\repos\\abcretailwebapp\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA3D5F6B-1903-4252-89A8-7BEF6BEB13AD}|ABCRetailWebApp.csproj|solutionrelative:views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3D5F6B-1903-4252-89A8-7BEF6BEB13AD}|ABCRetailWebApp.csproj|c:\\users\\thorisomoteane\\source\\repos\\abcretailwebapp\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA3D5F6B-1903-4252-89A8-7BEF6BEB13AD}|ABCRetailWebApp.csproj|solutionrelative:views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3D5F6B-1903-4252-89A8-7BEF6BEB13AD}|ABCRetailWebApp.csproj|c:\\users\\thorisomoteane\\source\\repos\\abcretailwebapp\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3D5F6B-1903-4252-89A8-7BEF6BEB13AD}|ABCRetailWebApp.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3D5F6B-1903-4252-89A8-7BEF6BEB13AD}|ABCRetailWebApp.csproj|c:\\users\\thorisomoteane\\source\\repos\\abcretailwebapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3D5F6B-1903-4252-89A8-7BEF6BEB13AD}|ABCRetailWebApp.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3D5F6B-1903-4252-89A8-7BEF6BEB13AD}|ABCRetailWebApp.csproj|c:\\users\\thorisomoteane\\source\\repos\\abcretailwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA3D5F6B-1903-4252-89A8-7BEF6BEB13AD}|ABCRetailWebApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3D5F6B-1903-4252-89A8-7BEF6BEB13AD}|ABCRetailWebApp.csproj|c:\\users\\thorisomoteane\\source\\repos\\abcretailwebapp\\views\\report\\reportresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA3D5F6B-1903-4252-89A8-7BEF6BEB13AD}|ABCRetailWebApp.csproj|solutionrelative:views\\report\\reportresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3D5F6B-1903-4252-89A8-7BEF6BEB13AD}|ABCRetailWebApp.csproj|c:\\users\\thorisomoteane\\source\\repos\\abcretailwebapp\\views\\report\\generate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA3D5F6B-1903-4252-89A8-7BEF6BEB13AD}|ABCRetailWebApp.csproj|solutionrelative:views\\report\\generate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3D5F6B-1903-4252-89A8-7BEF6BEB13AD}|ABCRetailWebApp.csproj|c:\\users\\thorisomoteane\\source\\repos\\abcretailwebapp\\views\\product\\uploadsuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA3D5F6B-1903-4252-89A8-7BEF6BEB13AD}|ABCRetailWebApp.csproj|solutionrelative:views\\product\\uploadsuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3D5F6B-1903-4252-89A8-7BEF6BEB13AD}|ABCRetailWebApp.csproj|c:\\users\\thorisomoteane\\source\\repos\\abcretailwebapp\\views\\product\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA3D5F6B-1903-4252-89A8-7BEF6BEB13AD}|ABCRetailWebApp.csproj|solutionrelative:views\\product\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3D5F6B-1903-4252-89A8-7BEF6BEB13AD}|ABCRetailWebApp.csproj|c:\\users\\thorisomoteane\\source\\repos\\abcretailwebapp\\views\\order\\processqueue.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA3D5F6B-1903-4252-89A8-7BEF6BEB13AD}|ABCRetailWebApp.csproj|solutionrelative:views\\order\\processqueue.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3D5F6B-1903-4252-89A8-7BEF6BEB13AD}|ABCRetailWebApp.csproj|c:\\users\\thorisomoteane\\source\\repos\\abcretailwebapp\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3D5F6B-1903-4252-89A8-7BEF6BEB13AD}|ABCRetailWebApp.csproj|solutionrelative:controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3D5F6B-1903-4252-89A8-7BEF6BEB13AD}|ABCRetailWebApp.csproj|c:\\users\\thorisomoteane\\source\\repos\\abcretailwebapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3D5F6B-1903-4252-89A8-7BEF6BEB13AD}|ABCRetailWebApp.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3D5F6B-1903-4252-89A8-7BEF6BEB13AD}|ABCRetailWebApp.csproj|c:\\users\\thorisomoteane\\source\\repos\\abcretailwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3D5F6B-1903-4252-89A8-7BEF6BEB13AD}|ABCRetailWebApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3D5F6B-1903-4252-89A8-7BEF6BEB13AD}|ABCRetailWebApp.csproj|c:\\users\\thorisomoteane\\source\\repos\\abcretailwebapp\\services\\azurestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3D5F6B-1903-4252-89A8-7BEF6BEB13AD}|ABCRetailWebApp.csproj|solutionrelative:services\\azurestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3D5F6B-1903-4252-89A8-7BEF6BEB13AD}|ABCRetailWebApp.csproj|c:\\users\\thorisomoteane\\source\\repos\\abcretailwebapp\\models\\transactionmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3D5F6B-1903-4252-89A8-7BEF6BEB13AD}|ABCRetailWebApp.csproj|solutionrelative:models\\transactionmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3D5F6B-1903-4252-89A8-7BEF6BEB13AD}|ABCRetailWebApp.csproj|c:\\users\\thorisomoteane\\source\\repos\\abcretailwebapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3D5F6B-1903-4252-89A8-7BEF6BEB13AD}|ABCRetailWebApp.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": ".txt",
+              "DocumentMoniker": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailFunctionsNew\\.txt",
+              "RelativeDocumentMoniker": "..\\ABCRetailFunctionsNew\\.txt",
+              "ToolTip": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailFunctionsNew\\.txt",
+              "RelativeToolTip": "..\\ABCRetailFunctionsNew\\.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-09-29T18:13:55.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailFunctionsNew\\local.settings.json",
+              "RelativeDocumentMoniker": "..\\ABCRetailFunctionsNew\\local.settings.json",
+              "ToolTip": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailFunctionsNew\\local.settings.json",
+              "RelativeToolTip": "..\\ABCRetailFunctionsNew\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-28T17:54:34.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ABCRetailFunctionsNew",
+              "DocumentMoniker": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailFunctionsNew\\ABCRetailFunctionsNew.csproj",
+              "RelativeDocumentMoniker": "..\\ABCRetailFunctionsNew\\ABCRetailFunctionsNew.csproj",
+              "ToolTip": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailFunctionsNew\\ABCRetailFunctionsNew.csproj",
+              "RelativeToolTip": "..\\ABCRetailFunctionsNew\\ABCRetailFunctionsNew.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-28T17:49:50.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailWebApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-28T12:14:13.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "local.settings.json.template",
+              "DocumentMoniker": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailWebApp\\local.settings.json.template",
+              "RelativeDocumentMoniker": "local.settings.json.template",
+              "ToolTip": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailWebApp\\local.settings.json.template",
+              "RelativeToolTip": "local.settings.json.template",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-29T18:06:55.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "local.settings.json.template",
+              "DocumentMoniker": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailFunctionsNew\\local.settings.json.template",
+              "RelativeDocumentMoniker": "..\\ABCRetailFunctionsNew\\local.settings.json.template",
+              "ToolTip": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailFunctionsNew\\local.settings.json.template",
+              "RelativeToolTip": "..\\ABCRetailFunctionsNew\\local.settings.json.template",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-29T18:05:53.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PictureToBlobsFunction.cs",
+              "DocumentMoniker": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailFunctionsNew\\PictureToBlobsFunction.cs",
+              "RelativeDocumentMoniker": "..\\ABCRetailFunctionsNew\\PictureToBlobsFunction.cs",
+              "ToolTip": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailFunctionsNew\\PictureToBlobsFunction.cs",
+              "RelativeToolTip": "..\\ABCRetailFunctionsNew\\PictureToBlobsFunction.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAgwGIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T14:07:44.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReportsToAzureFilesFunction.cs",
+              "DocumentMoniker": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailFunctionsNew\\ReportsToAzureFilesFunction.cs",
+              "RelativeDocumentMoniker": "..\\ABCRetailFunctionsNew\\ReportsToAzureFilesFunction.cs",
+              "ToolTip": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailFunctionsNew\\ReportsToAzureFilesFunction.cs",
+              "RelativeToolTip": "..\\ABCRetailFunctionsNew\\ReportsToAzureFilesFunction.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowFMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T14:08:24.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataToTablesFunction.cs",
+              "DocumentMoniker": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailFunctionsNew\\DataToTablesFunction.cs",
+              "RelativeDocumentMoniker": "..\\ABCRetailFunctionsNew\\DataToTablesFunction.cs",
+              "ToolTip": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailFunctionsNew\\DataToTablesFunction.cs",
+              "RelativeToolTip": "..\\ABCRetailFunctionsNew\\DataToTablesFunction.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwDwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T14:01:01.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PoisonQueueProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailFunctionsNew\\PoisonQueueProcessor.cs",
+              "RelativeDocumentMoniker": "..\\ABCRetailFunctionsNew\\PoisonQueueProcessor.cs",
+              "ToolTip": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailFunctionsNew\\PoisonQueueProcessor.cs",
+              "RelativeToolTip": "..\\ABCRetailFunctionsNew\\PoisonQueueProcessor.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAADwv10AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T17:53:27.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderProcessingFunction.cs",
+              "DocumentMoniker": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailFunctionsNew\\OrderProcessingFunction.cs",
+              "RelativeDocumentMoniker": "..\\ABCRetailFunctionsNew\\OrderProcessingFunction.cs",
+              "ToolTip": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailFunctionsNew\\OrderProcessingFunction.cs",
+              "RelativeToolTip": "..\\ABCRetailFunctionsNew\\OrderProcessingFunction.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAADwv4IAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T17:52:53.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailFunctionsNew\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ABCRetailFunctionsNew\\Program.cs",
+              "ToolTip": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailFunctionsNew\\Program.cs",
+              "RelativeToolTip": "..\\ABCRetailFunctionsNew\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T17:53:41.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "host.json",
+              "DocumentMoniker": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailFunctionsNew\\host.json",
+              "RelativeDocumentMoniker": "..\\ABCRetailFunctionsNew\\host.json",
+              "ToolTip": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailFunctionsNew\\host.json",
+              "RelativeToolTip": "..\\ABCRetailFunctionsNew\\host.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-28T17:54:11.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailWebApp\\Views\\Order\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailWebApp\\Views\\Order\\Create.cshtml",
+              "RelativeToolTip": "Views\\Order\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-28T12:19:29.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailWebApp\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailWebApp\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwDYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-28T12:19:03.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailWebApp\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailWebApp\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwDoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T12:17:33.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailWebApp\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailWebApp\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T12:15:22.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReportResult.cshtml",
+              "DocumentMoniker": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailWebApp\\Views\\Report\\ReportResult.cshtml",
+              "RelativeDocumentMoniker": "Views\\Report\\ReportResult.cshtml",
+              "ToolTip": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailWebApp\\Views\\Report\\ReportResult.cshtml",
+              "RelativeToolTip": "Views\\Report\\ReportResult.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-28T12:22:05.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwEEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-28T12:22:47.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Generate.cshtml",
+              "DocumentMoniker": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailWebApp\\Views\\Report\\Generate.cshtml",
+              "RelativeDocumentMoniker": "Views\\Report\\Generate.cshtml",
+              "ToolTip": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailWebApp\\Views\\Report\\Generate.cshtml",
+              "RelativeToolTip": "Views\\Report\\Generate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-28T12:21:48.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UploadSuccess.cshtml",
+              "DocumentMoniker": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailWebApp\\Views\\Product\\UploadSuccess.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\UploadSuccess.cshtml",
+              "ToolTip": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailWebApp\\Views\\Product\\UploadSuccess.cshtml",
+              "RelativeToolTip": "Views\\Product\\UploadSuccess.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-28T12:21:12.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Upload.cshtml",
+              "DocumentMoniker": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailWebApp\\Views\\Product\\Upload.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Upload.cshtml",
+              "ToolTip": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailWebApp\\Views\\Product\\Upload.cshtml",
+              "RelativeToolTip": "Views\\Product\\Upload.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-28T12:20:30.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProcessQueue.cshtml",
+              "DocumentMoniker": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailWebApp\\Views\\Order\\ProcessQueue.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\ProcessQueue.cshtml",
+              "ToolTip": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailWebApp\\Views\\Order\\ProcessQueue.cshtml",
+              "RelativeToolTip": "Views\\Order\\ProcessQueue.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-28T12:19:52.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailWebApp\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReportController.cs",
+              "ToolTip": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailWebApp\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "Controllers\\ReportController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T12:18:26.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailWebApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailWebApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T12:18:03.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailWebApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T12:17:08.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AzureStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailWebApp\\Services\\AzureStorageService.cs",
+              "RelativeDocumentMoniker": "Services\\AzureStorageService.cs",
+              "ToolTip": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailWebApp\\Services\\AzureStorageService.cs",
+              "RelativeToolTip": "Services\\AzureStorageService.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAmwMEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T12:16:54.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TransactionMessage.cs",
+              "DocumentMoniker": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailWebApp\\Models\\TransactionMessage.cs",
+              "RelativeDocumentMoniker": "Models\\TransactionMessage.cs",
+              "ToolTip": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailWebApp\\Models\\TransactionMessage.cs",
+              "RelativeToolTip": "Models\\TransactionMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T12:16:16.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailWebApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ThorisoMoteane\\source\\repos\\ABCRetailWebApp\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T12:15:48.912Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
