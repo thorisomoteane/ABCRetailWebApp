@@ -1,0 +1,46 @@
+﻿@model ABCRetailWebApp.Models.Order
+@{
+    ViewData["Title"] = "Create Order";
+}
+
+<h1>Create New Order</h1>
+
+<form asp-action="Create" method="post">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group mb-3">
+                <label asp-for="CustomerId">Customer ID</label>
+                <input asp-for="CustomerId" class="form-control" placeholder="CUST001" required />
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="CustomerName">Customer Name</label>
+                <input asp-for="CustomerName" class="form-control" placeholder="John Doe" required />
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="ProductId">Product ID</label>
+                <input asp-for="ProductId" class="form-control" placeholder="PROD001" required />
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="ProductName">Product Name</label>
+                <input asp-for="ProductName" class="form-control" placeholder="Winter Jacket" required />
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Quantity">Quantity</label>
+                <input asp-for="Quantity" type="number" class="form-control" min="1" value="1" required />
+            </div>
+
+            <div class="form-group mb-3">
+    <label asp-for="Price">Price ($)</label>
+    <input asp-for="Price" type="number" step="0.01" class="form-control" placeholder="99.99" required />
+    <span asp-validation-for="Price" class="text-danger"></span>
+</div>
+
+            <button type="submit" class="btn btn-success">Create Order</button>
+            <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+        </div>
+    </div>
+</form>

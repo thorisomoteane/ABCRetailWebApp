@@ -1,0 +1,66 @@
+﻿@{
+    ViewData["Title"] = "ABC Retail Cloud System";
+}
+
+<div class="text-center">
+    <h1 class="display-4">ABC Retail Cloud Order Processing System</h1>
+    <p class="lead">Powered by Azure Cloud Services</p>
+</div>
+
+<div class="row mt-5">
+    <div class="col-md-3">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">📦 Orders</h5>
+                <p class="card-text">Manage customer orders using Azure Table Storage</p>
+                <a asp-controller="Order" asp-action="Index" class="btn btn-primary">Manage Orders</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-3">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">🖼️ Products</h5>
+                <p class="card-text">Upload product images to Azure Blob Storage</p>
+                <a asp-controller="Product" asp-action="Upload" class="btn btn-primary">Upload Products</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-3">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">📊 Reports</h5>
+                <p class="card-text">Generate reports using Azure File Storage</p>
+                <a asp-controller="Report" asp-action="Generate" class="btn btn-primary">Generate Reports</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-3">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">📨 Queue</h5>
+                <p class="card-text">Process transaction messages from Azure Queue</p>
+                <a asp-controller="Order" asp-action="ProcessQueue" class="btn btn-primary">Process Queue</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row mt-4">
+    <div class="col-12">
+        <div class="card bg-light">
+            <div class="card-body">
+                <h5>Azure Services Used:</h5>
+                <ul>
+                    <li><strong>Azure Table Storage:</strong> Storing structured order data</li>
+                    <li><strong>Azure Blob Storage:</strong> Storing product images and documents</li>
+                    <li><strong>Azure Queue Storage:</strong> Managing transaction processing messages</li>
+                    <li><strong>Azure File Storage:</strong> Storing and sharing business reports</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>

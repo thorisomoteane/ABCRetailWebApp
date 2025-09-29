@@ -1,0 +1,55 @@
+﻿@model List<ABCRetailWebApp.Models.Order>
+@{
+    ViewData["Title"] = "Orders";
+}
+
+<h1>Order Management</h1>
+
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success">@TempData["Success"]</div>
+}
+
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger">@TempData["Error"]</div>
+}
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New Order</a>
+    <a asp-action="ProcessQueue" class="btn btn-info">Process Queue Messages</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Order ID</th>
+            <th>Customer</th>
+            <th>Product</th>
+            <th>Quantity</th>
+            <th>Unit Price</th>
+            <th>Total</th>
+            <th>Date</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var order in Model)
+        {
+            <tr>
+                <td>@order.OrderId.Substring(0, 8)...</td>
+                <td>@order.CustomerName</td>
+                <td>@order.ProductName</td>
+                <td>@order.Quantity</td>
+                <td>$@order.Price.ToString("F2")</td>
+                <td>$@order.TotalPrice.ToString("F2")</td>
+                <td>@order.OrderDate.ToString("yyyy-MM-dd HH:mm")</td>
+                <td>
+                    <span class="badge @(order.Status == "Completed" ? "bg-success" : "bg-warning")">
+                        @order.Status
+                    </span>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

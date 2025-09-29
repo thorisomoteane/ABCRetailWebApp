@@ -1,0 +1,39 @@
+﻿@{
+    ViewData["Title"] = "Generate Report";
+}
+
+<h1>Generate Reports</h1>
+
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success">@TempData["Success"]</div>
+}
+
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger">@TempData["Error"]</div>
+}
+
+<div class="row">
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Select Report Type</h5>
+                <form asp-action="Generate" method="post">
+                    <div class="form-group mb-3">
+                        <label for="reportType">Report Type</label>
+                        <select name="reportType" class="form-control">
+                            <option value="Daily">Daily Sales Report</option>
+                            <option value="Weekly">Weekly Sales Report</option>
+                            <option value="Monthly">Monthly Sales Report</option>
+                            <option value="Inventory">Inventory Report</option>
+                            <option value="Transaction">Transaction Summary</option>
+                        </select>
+                    </div>
+                    <button type="submit" class="btn btn-success">Generate Report</button>
+                    <a asp-controller="Home" asp-action="Index" class="btn btn-secondary">Cancel</a>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,34 @@
+﻿@{
+    ViewData["Title"] = "Report Result";
+}
+
+<h1>Report Generated</h1>
+
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["Success"]
+    </div>
+}
+
+@if (ViewBag.FileName != null)
+{
+    <div class="mb-3">
+        <a asp-action="Download" asp-route-fileName="@ViewBag.FileName" class="btn btn-primary">
+            Download Report
+        </a>
+        <a asp-action="Generate" class="btn btn-secondary">Generate Another Report</a>
+    </div>
+}
+
+@if (ViewBag.ReportContent != null)
+{
+    <div class="card">
+        <div class="card-header">
+            Report Preview
+        </div>
+        <div class="card-body">
+            <pre>@ViewBag.ReportContent</pre>
+        </div>
+    </div>
+}

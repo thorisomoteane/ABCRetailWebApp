@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Process Queue";
+}
+
+<h1>Queue Messages</h1>
+
+<a asp-action="Index" class="btn btn-secondary mb-3">Back to Orders</a>
+
+@if (ViewBag.Messages != null && ViewBag.Messages.Count > 0)
+{
+    <div class="alert alert-info">
+        <h4>Processed @ViewBag.Messages.Count message(s) from queue:</h4>
+    </div>
+
+    <div class="card">
+        <div class="card-body">
+            @foreach (string message in ViewBag.Messages)
+            {
+                <pre>@message</pre>
+                <hr />
+            }
+        </div>
+    </div>
+}
+else
+{
+    <div class="alert alert-warning">
+        No messages in queue at this time.
+    </div>
+}
